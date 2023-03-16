@@ -1,0 +1,18 @@
+h2{
+    text-align: center;
+    color: darkmagenta;
+
+}
+ul li{
+    color: darkblue;
+}
+ol li{
+    color: darkgreen;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+body{
+    background-color: lightcyan;
+}
